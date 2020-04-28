@@ -44,7 +44,7 @@ social:
   icon_pack: fas
   link: mailto:angaenca@espol.edu.ec
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/aencaladad/
 - icon: cv
   icon_pack: ai
