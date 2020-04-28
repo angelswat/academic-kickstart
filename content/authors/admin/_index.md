@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ángel Encalada
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: B.Sc. Student in Mechatronics Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: ESPOL Polytechnic University
+  url: "http://www.espol.edu.ec/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mechatronics design, machines & deep learning, renewable energy and structural health monitoring.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mechatronics Design
+- Machine & Deep Learning
+- Structural Health Monitoring
+- Renewable Energy
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.Sc. in Mechatronics Engineering
+    institution: ESPOL Polytechnic University
+    year: current
+  - course: B.Tech. in Electrical Installations, Devices and Machines
+    institution: College of Baccalaureate "Jambelí"
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,23 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:angaenca@espol.edu.ec
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/aencaladad/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/angelencalada19
+- icon: youtube
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.youtube.com/channel/UCf7adNBXmyLeYrd6sZjgEew?view_as=subscriber
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/aencaladad/
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ángel is currently enrolled as Mechatronics Engineering student at ESPOL Polytechnic University, in Ecuador. His academic and professional background, as well as his work, are related with Mechatronics Design, Computational Modeling and Machine & Deep Learning applied to Structural Health Monitoring. 
