@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.melacorp.com/en/"
   location = "Guayaquil, Ecuador"
   date_start = "2020-02"
-  date_end = "current"
+  date_end = ""
   description = """
   Activities include:
   
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "http://www.espol.edu.ec/"
   location = "Guayaquil, Ecuador"
   date_start = "2019-10"
-  date_end = "current"
+  date_end = ""
   description = """
   Activities include:
   
