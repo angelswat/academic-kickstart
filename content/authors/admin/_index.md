@@ -76,3 +76,5 @@ user_groups:
 ---
 
 Ángel is currently enrolled as Mechatronics Engineering student at ESPOL Polytechnic University, in Ecuador. His academic and professional background, as well as his work, are related with Mechatronics Design, Computational Modeling and Machine & Deep Learning applied to Structural Health Monitoring. 
+
+He also has experience with Autonomous Flying Car and Natural Language Processing. On the other hand, few of your works are related with Renewable Energy applied to Fuel Cells.
