@@ -23,20 +23,25 @@ subtitle = ""
   icon = "android"
   icon_pack = "fab"
   name = "Android Studio"
+
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Arduino"
   
 [[feature]]
   icon = "cogs"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Autodesk Inventor"
 
 [[feature]]
   icon = "drafting-compass"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Autodesk AutoCAD"
 
 [[feature]]
   icon = "chart-area"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Matlab"
   
 
