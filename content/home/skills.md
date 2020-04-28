@@ -15,21 +15,29 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "python"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "android"
+  icon_pack = "fab"
+  name = "Android Studio"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "cogs"
+  icon_pack = "fab"
+  name = "Autodesk Inventor"
+
+[[feature]]
+  icon = "drafting-compass"
+  icon_pack = "fab"
+  name = "Autodesk AutoCAD"
+
+[[feature]]
+  icon = "chart-area"
+  icon_pack = "fab"
+  name = "Matlab"
+  
 
 +++
