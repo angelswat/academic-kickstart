@@ -44,7 +44,83 @@ date_format = "Jan 2006"
   Activities include:
   
   * Reviewing literature about wind turbines fault detection
-  * Developing machine & deep learning algorithms, such as, NN, SVM, KNN, XGBoost
+  * Developing machine & deep learning models, such as, NN, SVM, KNN, XGBoost
   """
 
+
+[[experience]]
+  title = "Researcher"
+  company = "ESPOL Polytechnic University"
+  company_url = "http://www.espol.edu.ec/"
+  location = "Guayaquil, Ecuador"
+  date_start = "2019-05-01"
+  date_end = "2020-02-01"
+  description = """
+  Activities include:
+  
+  * Reviewing literature about network topology fault prediction
+  * Reviewing literature about body posture classification since oral presentations
+  * Developing machine learning models for faul detection in network topology
+  * Developing deep learning models for oral presentation qualification since body postures
+  """
+
+
+[[experience]]
+  title = "Researcher"
+  company = "ESPOL Polytechnic University"
+  company_url = "http://www.espol.edu.ec/"
+  location = "Guayaquil, Ecuador"
+  date_start = "2019-05-01"
+  date_end = "2019-10-01"
+  description = """
+  Activities include:
+  
+  * Reviewing literature about commercial activity impact for mobility characterization in cities
+  * Developing machine learning models to correlate commercial activity index with mobility patterns at intra-urban level
+  """
+  
+  
+[[experience]]
+  title = "Researcher"
+  company = "LabFREE (Renewable Energy Sources Laboratory)"
+  company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
+  location = "Guayaquil, Ecuador"
+  date_start = "2018-02-01"
+  date_end = ""
+  description = """
+  Activities include:
+  
+  * Reviewing literature about mechanical properties improvement in GDLs for fuel cells
+  * Developing computational modeling systems for transport phenomena study on porous media
+  * Writing scientific articles
+  """
+  
+ [[experience]]
+  title = "Academic Instructor"
+  company = "ACPrime"
+  company_url = ""
+  location = "Guayaquil, Ecuador"
+  date_start = "2019-05-01"
+  date_end = ""
+  description = """
+  Activities include:
+  
+  * Teaching about beam and column deflection, mechanical stress, Mohr´s circle, forces and moments, etc
+  * Teaching about motors AC/DC, three and mono phase circuits, transformers, magnetic circuits, etc
+  """
+  
+ [[experience]]
+  title = "Teaching Assistant"
+  company = "ESPOL Polytechnic University"
+  company_url = "http://www.espol.edu.ec/"
+  location = "Guayaquil, Ecuador"
+  date_start = "2019-05-01"
+  date_end = "2019-10-01"
+  description = """
+  Activities include:
+  
+  * Grading evaluations, hometasks, etc
+  * Teaching Python programming
+  """
+  
 +++
