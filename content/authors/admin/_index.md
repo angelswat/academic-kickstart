@@ -75,6 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Ángel is currently enrolled as Mechatronics Engineering student at ESPOL Polytechnic University, in Ecuador. His academic and professional background, as well as his work, are related with Mechatronics Design, Computational Modeling and Machine & Deep Learning applied to Structural Health Monitoring. 
+Ángel is currently enrolled as Mechatronics Engineering student at ESPOL Polytechnic University, in Ecuador. His academic formation is related with Mechatronics Design, Flexible Manufacturing Systems, Biomechatronics Systems, Mobile & Articulated Robots and more.
 
-He also has experience with Autonomous Flying Car and Natural Language Processing. On the other hand, few of your works are related with Renewable Energy applied to Fuel Cells.
+His work is oriented to Computational Modeling applied to Fuel Cells and Machine & Deep Learning applied to Structural Health Monitoring. He also has experience in projects based on Autonomous Flying Car and Natural Language Processing.
+
+His main motivation is developing innovative solutions for real problems and with added value.
