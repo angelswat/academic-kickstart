@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
   
 [[item]]
-  organization = "Mobile & Web Technologies and Data Science Research Club, ESPOL"
+  organization = "Mobile & Web Technologies and Data Science Research Club, TAWS"
   organization_url = "https://taws.espol.edu.ec/inicio"
   title = "1st Place: Hackathon GeoViz Challenge 2017"
   url = ""

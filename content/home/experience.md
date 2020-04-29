@@ -120,7 +120,7 @@ date_format = "Jan 2006"
   description = """
   Activities include:
   
-  * Grading evaluations, hometasks, etc
+  * Grading evaluations, tasks, etc
   * Teaching Python programming
   """
   
