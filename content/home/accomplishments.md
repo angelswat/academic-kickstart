@@ -37,26 +37,5 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = ""
   description = "Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, etc."
-  
-[[item]]
-  organization = "Faculty of Engineering Earth Sciences, ESPOL"
-  organization_url = ""
-  title = "Papers elaboration and LaTex document system application"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "Academic course about general structure of research papers and administration and elaboration of different kind of documents on LaTex platform."
-  
-  
-[[item]]
-  organization = "Mobile & Web Technologies and Data Science Research Club, ESPOL"
-  organization_url = ""
-  title = "Web Data Analytics, Mining User Opinions"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-12-01"
-  date_end = ""
-  description = "Text processing of datasets based on social media, e.g. Twitter. Sentiment analysis applied on social media content."
-
+ 
 +++
