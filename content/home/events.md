@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "NASA Space Apps Challenge"
   url = "https://www.spaceappschallenge.org/"
   certificate_url = ""
-  date_start = "2018-10-01"
+  date_start = "2019-10-01"
   date_end = ""
   description = "Category: What the world need now is?, Sub-category: Health makes wealth"
   
