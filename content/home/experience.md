@@ -28,10 +28,10 @@ date_format = "Jan 2006"
   description = """
   Activities include:
   
-  * PLC programming and simulation
-  * Hosting databases and linking with mobile apps
-  * Deploying industrial communication interfaces by using Node-RED
-  * Developing a mobile app based on UX/UI protocols
+  * PLC programming and simulation.
+  * Hosting databases and linking with mobile apps.
+  * Deploying industrial communication interfaces by using Node-RED.
+  * Developing a mobile app based on UX/UI protocols.
   """
 
 [[experience]]
@@ -44,8 +44,8 @@ date_format = "Jan 2006"
   description = """
   Activities include:
   
-  * Reviewing literature about wind turbines fault detection
-  * Developing machine & deep learning models, such as, NN, SVM, KNN, XGBoost
+  * Reviewing literature about wind turbines fault detection and unbalanced data. 
+  * Developing machine & deep learning models, such as, NN, SVM, KNN, XGBoost to predict pre-faults in wind turbines.
   """
 
 
@@ -57,12 +57,12 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-02-01"
   description = """
-  Activities include:
+  Activities included:
   
-  * Reviewing literature about network topology fault prediction
-  * Reviewing literature about body posture classification since oral presentations
-  * Developing machine learning models for faul detection in network topology
-  * Developing deep learning models for oral presentation qualification since body postures
+  * Reviewing literature about network topology fault prediction.
+  * Reviewing literature about body posture classification since oral presentations.
+  * Developing machine learning models for fault detection in network topology.
+  * Developing deep learning models for oral presentation qualification since body postures.
   """
 
 
@@ -74,7 +74,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-10-01"
   description = """
-  Activities include:
+  Activities included:
   
   * Reviewing literature about commercial activity impact for mobility characterization in cities
   * Developing machine learning models to correlate commercial activity index with mobility patterns at intra-urban level
@@ -83,7 +83,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Researcher"
-  company = "LabFREE (Renewable Energy Sources Laboratory)"
+  company = "LabFREE (Energy Renewable Sources Laboratory)"
   company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
   location = "Guayaquil, Ecuador"
   date_start = "2018-02-01"
@@ -91,9 +91,9 @@ date_format = "Jan 2006"
   description = """
   Activities include:
   
-  * Reviewing literature about mechanical properties improvement in GDLs for fuel cells
-  * Developing computational modeling systems for transport phenomena study on porous media
-  * Writing scientific articles
+  * Reviewing literature about mechanical properties improvement of GDLs into fuel cells.
+  * Developing computational modeling systems for transport phenomena study on porous media.
+  * Writing scientific articles.
   """
   
  [[experience]]
@@ -106,8 +106,8 @@ date_format = "Jan 2006"
   description = """
   Activities include:
   
-  * Teaching about beam and column deflection, mechanical stress, Mohr´s circle, forces and moments, etc
-  * Teaching about motors AC/DC, three and mono phase circuits, transformers, magnetic circuits, etc
+  * Teaching about beam and column deflection, mechanical stress, Mohr´s circle, forces and moments, etc.
+  * Teaching about AC/DC motors, three and mono phase circuits, transformers, magnetic circuits, etc
   """
   
  [[experience]]
@@ -118,10 +118,7 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-10-01"
   description = """
-  Activities include:
-  
-  * Grading evaluations, tasks, etc
-  * Teaching Python programming
+  Activities included grading evaluations, tasks and teaching Python programming.
   """
   
 +++
