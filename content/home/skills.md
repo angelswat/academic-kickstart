@@ -42,7 +42,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
-  name = "Matlab"
+  name = "MATLAB"
   
 
 +++
