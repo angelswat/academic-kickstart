@@ -26,10 +26,9 @@ date_format = "Jan 2006"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-
-  Doing computer modeling of PEMFC Gas Diffusion Layer (GDL) to study the two-phase flow hystesis effects and elucidate the influence of carbon corrosion.
-  <br />
-  OpenPNM | Python | MATLAB | ParaView
+  Doing computer modeling of PEMFC Gas Diffusion Layer (GDL) to study the two-phase flow hystesis effects, and elucidate the influence of carbon corrosion.
+  <br/><br/>
+  OpenPNM | Python | MATLAB | ParaView | LaTeX
   """
 
 [[experience]]
@@ -40,42 +39,36 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-
   Developing machine & deep learning models applied to Structural Health Monitoring to make fault prediction and classification in wind turbines. 
-  <br />
-  Python | MATLAB | Pandas | Scikit-learn | Pytorch 
+  <br/><br/>
+  Python | MATLAB | Pandas | Matplotlib | Scikit-learn | Pytorch | LaTeX 
   """
 
-
 [[experience]]
-  title = "Researcher"
+  title = "Research Assistant"
   company = "ESPOL Polytechnic University"
   company_url = "http://www.espol.edu.ec/"
   location = "Guayaquil, Ecuador"
   date_start = "2019-05-01"
-  date_end = "2020-02-01"
+  date_end = ""
   description = """
-  Activities included:
-  
-  * Reviewing literature about network topology fault prediction.
-  * Reviewing literature about body posture classification since oral presentations.
-  * Developing machine learning models for fault detection in network topology.
-  * Developing deep learning models for oral presentation qualification since body postures.
+  Developing machine learning models to make network topology fault prediction, and on the other hand developing models to make body postures classification in oral presentations.
+  <br/><br/>
+  Python | Scikit-learn | Pandas | Matplotlib
   """
 
 
 [[experience]]
-  title = "Researcher"
+  title = "Research Assistant"
   company = "ESPOL Polytechnic University"
   company_url = "http://www.espol.edu.ec/"
   location = "Guayaquil, Ecuador"
   date_start = "2019-05-01"
   date_end = "2019-10-01"
   description = """
-  Activities included:
-  
-  * Reviewing literature about commercial activity impact for mobility characterization in cities.
-  * Developing machine learning models to correlate commercial activity index with mobility patterns at intra-urban level.
+  Developing machine learning models to study data related to commercial activity, criminal activity, and mobility patterns at intra-urban level. 
+  <br/><br/>
+  Python | Pandas | Matplotlib | LaTeX
   """
   
   [[experience]]
@@ -86,7 +79,9 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2019-10-01"
   description = """
-  Activities included grading evaluations, tasks and teaching Python programming.
+  Teaching to program in Python language.
+  <br/><br/>
+  Python | Pandas | Matplotlib
   """
 
   [[experience]]
@@ -97,25 +92,20 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = ""
   description = """
-  Activities include:
-  
-  * Teaching about beam and column deflection, mechanical stress, Mohr´s circle, forces and moments, etc.
-  * Teaching about AC/DC motors, three and mono phase circuits, transformers, magnetic circuits, etc
+  Teaching beam and column deflection, mechanical stress, Mohr´s circle, forces, and moments. Likewise, teaching AC/DC motors operation, three-phase and mono-phase circuits, transformers, and magnetic circuits.
   """
   
 [[experience]]
-  title = "Researcher"
+  title = "Research Assistant"
   company = "LabFREE ESPOL (Energy Renewable Sources Laboratory)"
   company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
   location = "Guayaquil, Ecuador"
   date_start = "2018-02-01"
   date_end = ""
   description = """
-  Activities include:
-  
-  * Reviewing literature about mechanical properties improvement of GDLs into fuel cells.
-  * Developing computational modeling systems for transport phenomena study on porous media.
-  * Writing scientific articles.
+  Doing computer modeling of porous media applied to fuel cells to improve its mechanical properties and efficiency.
+  <br/><br/>
+  Python | MATLAB | OpenPNM | ParaView | LaTeX
   """
 
   [[experience]]
@@ -126,12 +116,8 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = "2020-05-01"
   description = """
-  Activities include:
-
-  * PLC programming and simulation.
-  * Hosting databases and linking with mobile apps.
-  * Deploying industrial communication interfaces by using Node-RED.
-  * Developing a mobile app based on UX/UI protocols.
+  Development of a mobile app to monitor pumping stations in shrimp farms.
+  <br/><br/>
+  Java | Android Studio | Node-RED | TIA Portal
   """
-  
 +++
