@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
 
   Doing computer modeling of PEMFC Gas Diffusion Layer (GDL) to study the two-phase flow hystesis effects and elucidate the influence of carbon corrosion.
-  <br />
+  <br/><br/>
   OpenPNM | Python | MATLAB | ParaView
   """
 
