@@ -19,8 +19,18 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[item]]
+  organization = "Udacity"
+  organization_url = "https://www.udacity.com/course/deep-learning-nanodegree--nd101"
+  title = "Deep Learning Nanodegree"
+  url = ""
+  certificate_url = "https://graduation-api.udacity.com/api/certificate/APV9UMC6/download"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = "Studying cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment, and build projects in PyTorch and NumPy."
+
+[[item]]
   organization = "Faculty of Engineering Earth Sciences, ESPOL"
-  organization_url = ""
+  organization_url = "http://www.fict.espol.edu.ec/"
   title = "Papers elaboration and LaTex document system application"
   url = ""
   certificate_url = ""
@@ -31,7 +41,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Mobile & Web Technologies and Data Science Research Club, ESPOL"
-  organization_url = ""
+  organization_url = "https://taws.espol.edu.ec/"
   title = "Web Data Analytics, Mining User Opinions"
   url = ""
   certificate_url = ""
