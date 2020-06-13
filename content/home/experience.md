@@ -19,33 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Mechatronics Design Assistant"
-  company = "MELACORP S.A."
-  company_url = "http://www.melacorp.com/en/"
-  location = "Guayaquil, Ecuador"
-  date_start = "2020-02-01"
+  title = "Research Intern"
+  company = "Energy and Transport Sciences Laboratory (ETSL - Purdue University)"
+  company_url = "https://engineering.purdue.edu/ETSL/"
+  location = "Indiana, USA"
+  date_start = "2020-06-01"
   date_end = ""
   description = """
-  Activities include:
-  
-  * PLC programming and simulation.
-  * Hosting databases and linking with mobile apps.
-  * Deploying industrial communication interfaces by using Node-RED.
-  * Developing a mobile app based on UX/UI protocols.
+
+  Doing computer modeling of PEMFC Gas Diffusion Layer (GDL) to study the two-phase flow hystesis effects and elucidate the influence of carbon corrosion.
+  <br />
+  OpenPNM | Python | MATLAB | ParaView
   """
 
 [[experience]]
-  title = "Researcher"
+  title = "Research Assistant"
   company = "ESPOL Polytechnic University"
   company_url = "http://www.espol.edu.ec/"
   location = "Guayaquil, Ecuador"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  Activities include:
-  
-  * Reviewing literature about wind turbines fault detection and unbalanced data. 
-  * Developing machine & deep learning models, such as, NN, SVM, KNN, XGBoost to predict pre-faults in wind turbines.
+
+  Developing machine & deep learning models applied to Structural Health Monitoring to make fault prediction and classification in wind turbines. 
+  <br />
+  Python | MATLAB | Pandas | Scikit-learn | Pytorch 
   """
 
 
@@ -76,27 +74,22 @@ date_format = "Jan 2006"
   description = """
   Activities included:
   
-  * Reviewing literature about commercial activity impact for mobility characterization in cities
-  * Developing machine learning models to correlate commercial activity index with mobility patterns at intra-urban level
+  * Reviewing literature about commercial activity impact for mobility characterization in cities.
+  * Developing machine learning models to correlate commercial activity index with mobility patterns at intra-urban level.
   """
   
-  
-[[experience]]
-  title = "Researcher"
-  company = "LabFREE (Energy Renewable Sources Laboratory)"
-  company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
+  [[experience]]
+  title = "Teaching Assistant"
+  company = "ESPOL Polytechnic University"
+  company_url = "http://www.espol.edu.ec/"
   location = "Guayaquil, Ecuador"
-  date_start = "2018-02-01"
-  date_end = ""
+  date_start = "2019-05-01"
+  date_end = "2019-10-01"
   description = """
-  Activities include:
-  
-  * Reviewing literature about mechanical properties improvement of GDLs into fuel cells.
-  * Developing computational modeling systems for transport phenomena study on porous media.
-  * Writing scientific articles.
+  Activities included grading evaluations, tasks and teaching Python programming.
   """
-  
- [[experience]]
+
+  [[experience]]
   title = "Academic Instructor"
   company = "ACPrime"
   company_url = ""
@@ -110,15 +103,35 @@ date_format = "Jan 2006"
   * Teaching about AC/DC motors, three and mono phase circuits, transformers, magnetic circuits, etc
   """
   
- [[experience]]
-  title = "Teaching Assistant"
-  company = "ESPOL Polytechnic University"
-  company_url = "http://www.espol.edu.ec/"
+[[experience]]
+  title = "Researcher"
+  company = "LabFREE ESPOL (Energy Renewable Sources Laboratory)"
+  company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
   location = "Guayaquil, Ecuador"
-  date_start = "2019-05-01"
-  date_end = "2019-10-01"
+  date_start = "2018-02-01"
+  date_end = ""
   description = """
-  Activities included grading evaluations, tasks and teaching Python programming.
+  Activities include:
+  
+  * Reviewing literature about mechanical properties improvement of GDLs into fuel cells.
+  * Developing computational modeling systems for transport phenomena study on porous media.
+  * Writing scientific articles.
+  """
+
+  [[experience]]
+  title = "Mechatronics Design Assistant"
+  company = "MELACORP S.A."
+  company_url = "http://www.melacorp.com/en/"
+  location = "Guayaquil, Ecuador"
+  date_start = "2020-02-01"
+  date_end = "2020-05-01"
+  description = """
+  Activities include:
+
+  * PLC programming and simulation.
+  * Hosting databases and linking with mobile apps.
+  * Deploying industrial communication interfaces by using Node-RED.
+  * Developing a mobile app based on UX/UI protocols.
   """
   
 +++
