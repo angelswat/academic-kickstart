@@ -32,16 +32,39 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Assistant"
-  company = "ESPOL Polytechnic University"
-  company_url = "http://www.espol.edu.ec/"
-  location = "Guayaquil, Ecuador"
+  title = "External Researcher"
+  company = "Control, Dynamics and Applications Laboratory (CoDAlab - Universitat Politècnica de Catalunya)"
+  company_url = "https://codalab.upc.edu/en"
+  location = "Barcelona, Spain"
   date_start = "2019-10-01"
   date_end = ""
   description = """
   Developing machine & deep learning models applied to Structural Health Monitoring to make fault prediction and classification in wind turbines. 
   <br/><br/>
   Python | MATLAB | Pandas | Matplotlib | Scikit-learn | Pytorch | LaTeX 
+  """
+[[experience]]
+  title = "Academic Instructor"
+  company = "ACPrime"
+  company_url = ""
+  location = "Guayaquil, Ecuador"
+  date_start = "2019-05-01"
+  date_end = ""
+  description = """
+  Teaching beam and column deflection, mechanical stress, Mohr´s circle, forces, and moments. Likewise, teaching AC/DC motors operation, three-phase and mono-phase circuits, transformers, and magnetic circuits.
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "LabFREE ESPOL (Energy Renewable Sources Laboratory)"
+  company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
+  location = "Guayaquil, Ecuador"
+  date_start = "2018-02-01"
+  date_end = ""
+  description = """
+  Doing computer modeling of porous media applied to fuel cells to improve its mechanical properties and efficiency.
+  <br/><br/>
+  Python | MATLAB | OpenPNM | ParaView | LaTeX
   """
 
 [[experience]]
@@ -82,30 +105,6 @@ date_format = "Jan 2006"
   Teaching to program in Python language.
   <br/><br/>
   Python | Pandas | Matplotlib
-  """
-
-  [[experience]]
-  title = "Academic Instructor"
-  company = "ACPrime"
-  company_url = ""
-  location = "Guayaquil, Ecuador"
-  date_start = "2019-05-01"
-  date_end = ""
-  description = """
-  Teaching beam and column deflection, mechanical stress, Mohr´s circle, forces, and moments. Likewise, teaching AC/DC motors operation, three-phase and mono-phase circuits, transformers, and magnetic circuits.
-  """
-  
-[[experience]]
-  title = "Research Assistant"
-  company = "LabFREE ESPOL (Energy Renewable Sources Laboratory)"
-  company_url = "http://www.fimcp.espol.edu.ec/es/hidrogeno_Celdas_Combustible"
-  location = "Guayaquil, Ecuador"
-  date_start = "2018-02-01"
-  date_end = ""
-  description = """
-  Doing computer modeling of porous media applied to fuel cells to improve its mechanical properties and efficiency.
-  <br/><br/>
-  Python | MATLAB | OpenPNM | ParaView | LaTeX
   """
 
   [[experience]]
