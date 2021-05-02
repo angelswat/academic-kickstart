@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ángel Encalada
+title: Ángel Encalada-Dávila
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: B.Sc. Student in Mechatronics Engineering
+role: B.Sc. in Mechatronics Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,16 @@ organizations:
 bio: My research interests include mechatronics design, machines & deep learning, renewable energy and structural health monitoring.
 
 interests:
-- Mechatronics Design
+- Fault Prognosis in SCADA data
 - Machine & Deep Learning
-- Structural Health Monitoring
 - Renewable Energy
+- Reinforcement Learning
 
 education:
   courses:
   - course: B.Sc. in Mechatronics Engineering
     institution: ESPOL Polytechnic University
-    year: current
+    year: 2021
   - course: B.Tech. in Electrical Installations, Devices and Machines
     institution: College of Baccalaureate "Jambelí"
     year: 2016
@@ -66,7 +66,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "angaenca@espol.edu.ec"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
