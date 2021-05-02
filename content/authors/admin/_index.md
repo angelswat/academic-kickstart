@@ -75,8 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Ángel is currently enrolled as a Mechatronics Engineering student at ESPOL Polytechnic University, in Ecuador. His academic formation is related to Mechatronics Design, Flexible Manufacturing Systems, Biomechatronics Systems, Mobile & Articulated Robots and more.
+Ángel is a graduated Mechatronics Engineer at ESPOL Polytechnic University, in Ecuador. His academic formation is related to Mechatronics Design, Flexible Manufacturing Systems, Biomechatronics Systems, Mobile & Articulated Robots and more.
 
-His work is oriented to Computer Modeling applied to Fuel Cells and Machine & Deep Learning applied to Structural Health Monitoring. He also has experience in projects based on Autonomous Flying Car and Natural Language Processing.
+Currently, he works as software engineer in an important ecuadorian ATM company.  Also, he is enrrolled as researcher in areas like Computer Modeling applied to Fuel Cells and Machine & Deep Learning applied to Structural Health Monitoring.
 
-His main motivation is developing innovative solutions for real problems and with added value.
+He has experiencie in Unmanned Vehicles like drones and Reinforcement Learning. His main motivation is developing innovative solutions for real problems and with added value.
