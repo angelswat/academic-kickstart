@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-12-01"
   date_end = ""
-  description = "Partipation of Transport Phenomena Research Group at 'Primer Encuentro Nacional de Redes y HUB de Transferencia de Tecnología' where results about Fuel Cells research were presented."
+  description = "Participation of Transport Phenomena Research Group at 'Primer Encuentro Nacional de Redes y HUB de Transferencia de Tecnología' where results about Fuel Cells research were presented."
   
   
 [[item]]
