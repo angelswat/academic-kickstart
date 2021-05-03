@@ -20,14 +20,14 @@ subtitle = ""
   name = "Python"
   
 [[feature]]
-  icon = "android"
-  icon_pack = "fab"
-  name = "Android Studio"
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Pytorch"
 
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Arduino"
+  icon = "money-bill-alt"
+  icon_pack = "far"
+  name = "KTC Suite"
   
 [[feature]]
   icon = "cogs"
@@ -35,9 +35,9 @@ subtitle = ""
   name = "Autodesk Inventor"
 
 [[feature]]
-  icon = "drafting-compass"
-  icon_pack = "fas"
-  name = "Autodesk AutoCAD"
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office Suite"
 
 [[feature]]
   icon = "chart-area"
