@@ -28,14 +28,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Learn the core concepts required to design and develop robots that fly. Work with the quadrotor test platform and our custom flight simulator to implement planning, control, and estimation solutions."
 
-<!-- [[item]]
-  organization = "Udacity"
-  organization_url = "https://www.udacity.com/"
-  title = "Natural Language Processing"
-  url = "https://www.udacity.com/course/natural-language-processing-nanodegree--nd892"
-  certificate_url = ""
-  date_start = "2020-03-01"
-  date_end = ""
-  description = "Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, etc." -->
- 
 +++
