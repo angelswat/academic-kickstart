@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Yachay Tech University"
   organization_url = "https://www.yachaytech.edu.ec/en/"
-  title = "Best Oral Presentation Finalist at Congress "Red Ecuatoriana de Universidades y Escuelas Politécnicas para Investigación y Posgrados""
+  title = "Best Oral Presentation Finalist at Congress 'Red Ecuatoriana de Universidades y Escuelas Politécnicas para Investigación y Posgrados'"
   url = ""
   certificate_url = ""
   date_start = "2019-11-01"
   date_end = ""
-  description = "Oral Presentation titled: “Pore Network Modelling: Importancia del Modelamiento Computacional para la mejora de las Propiedades Mecánicas en Celdas de Combustible”"
+  description = "Oral Presentation titled: 'Pore Network Modelling: Importancia del Modelamiento Computacional para la mejora de las Propiedades Mecánicas en Celdas de Combustible'"
 
 [[item]]
   organization = "Organization of Ibero-American States (OEI) & Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (Senescyt)"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-12-01"
   date_end = ""
-  description = "Partipation of Transport Phenomena Research Group at "Primer Encuentro Nacional de Redes y HUB de Transferencia de Tecnología" where results about Fuel Cells research were presented."
+  description = "Partipation of Transport Phenomena Research Group at 'Primer Encuentro Nacional de Redes y HUB de Transferencia de Tecnología' where results about Fuel Cells research were presented."
   
   
 [[item]]
