@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include mechatronics design, machines & deep learning, renewable energy and structural health monitoring.
 
 interests:
-- Fault Prognosis in SCADA data
+- Fault Prognosis in Wind Turbines
+- Structural Health Monitoring
 - Machine & Deep Learning
 - Renewable Energy
 - Reinforcement Learning
@@ -75,8 +76,8 @@ user_groups:
 - Visitors
 ---
 
-Ángel is a graduated Mechatronics Engineer at ESPOL Polytechnic University, in Ecuador. His academic formation is related to Mechatronics Design, Flexible Manufacturing Systems, Biomechatronics Systems, Mobile & Articulated Robots and more.
+Ángel is a graduated Mechatronics Engineer at ESPOL Polytechnic University, in Ecuador. His academic formation is related to Mechatronics Design, Flexible Manufacturing Systems, Biomechatronics Systems, Mobile & Articulated Robots, among other.
 
-Currently, he works as software engineer in an important ecuadorian ATM company.  Also, he is enrrolled as researcher in areas like Computer Modeling applied to Fuel Cells and Machine & Deep Learning applied to Structural Health Monitoring.
+Currently, he works as software engineer in an important ecuadorian ATM company.  Also, he is enrrolled as researcher in areas like Computer Modeling (Fuel Cells), Structural Health Monitoring and Fault Prognosis (Wind Turbines).
 
-He has experiencie in Unmanned Vehicles like drones and Reinforcement Learning. His main motivation is developing innovative solutions for real problems and with added value.
+He has knowledge in Unmanned Vehicle Simulation (Drones) and Reinforcement Learning. His main motivation is developing innovative solutions for real problems and with added value.
