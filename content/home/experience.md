@@ -19,16 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Intern"
-  company = "Energy and Transport Sciences Laboratory (ETSL - Purdue University)"
-  company_url = "https://engineering.purdue.edu/ETSL/"
-  location = "Indiana, USA"
+  title = "Software Engineer"
+  company = "CMS Business Solutions"
+  company_url = "https://cms.com.ec/develop/"
+  location = "Guayaquil, Ecuador"
   date_start = "2020-06-01"
   date_end = ""
   description = """
-  Doing computer modeling of PEMFC Gas Diffusion Layer (GDL) to study the two-phase flow hysteresis effects, and elucidate the influence of carbon corrosion.
+  Technical support for ATMs in banking, monitoring, hardware and software testing, information-logs analysis, and troubleshooting. 
   <br/><br/>
-  OpenPNM | Python | MATLAB | ParaView | LaTeX
+  Kalignite | MySQL | Hyosung | Diebold | NDC Protocol 
   """
 
 [[experience]]
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = """
-  Developing machine & deep learning models applied to Structural Health Monitoring to make fault prediction and classification in wind turbines. 
+  Developing machine & deep learning models applied to structural health monitoring and fault prognosis in wind turbines. 
   <br/><br/>
   Python | MATLAB | Pandas | Matplotlib | Scikit-learn | Pytorch | LaTeX 
   """
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Guayaquil, Ecuador"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-06-01"
   description = """
   Teaching beam and column deflection, mechanical stress, Mohr´s circle, forces, and moments. Likewise, teaching AC/DC motors operation, three-phase and mono-phase circuits, transformers, and magnetic circuits.
   """
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   date_start = "2018-02-01"
   date_end = ""
   description = """
-  Doing computer modeling of porous media applied to fuel cells to improve its mechanical properties and efficiency.
+  Doing computer modeling of porous media applied to fuel cells to improve mechanical properties of GDLs and its efficiency.
   <br/><br/>
   Python | MATLAB | OpenPNM | ParaView | LaTeX
   """
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   company_url = "http://www.espol.edu.ec/"
   location = "Guayaquil, Ecuador"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-06-01"
   description = """
   Developing machine learning models to make network topology fault prediction, and on the other hand developing models to make body postures classification in oral presentations.
   <br/><br/>

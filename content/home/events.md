@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Pontificia Universidad Católica del Ecuador, PUCE"
   organization_url = "https://www.puce.edu.ec/"
-  title = "Debate Academic Tournament, TOP-PUCE"
+  title = "International Debating & Oratory Tournament, TOD-PUCE"
   url = ""
   certificate_url = ""
   date_start = "2018-08-01"
   date_end = ""
-  description = "Debate & Oratory Tournament with delegations of Chile, Colombia, Peru, Ecuador and Spain. Positioned in Best Speakers & Debaters Top 20."
+  description = "Debating & Oratory Tournament with delegations of Chile, Colombia, Peru, Ecuador, and Spain. Positioned in Top 20 of Best Speakers & Debaters."
 
 [[item]]
   organization = "Instituto Superior Tecnológico Guayaquil, ISTG"
@@ -51,11 +51,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Pontificia Universidad Católica del Perú, PUCP"
   organization_url = "https://www.pucp.edu.pe/en/"
-  title = "Academic Debate & Oratory Tournament, TODI-PUCP"
+  title = "Inter-university Debating & Oratory Tournament, TODI-PUCP"
   url = ""
   certificate_url = ""
   date_start = "2019-04-01"
   date_end = ""
-  description = "Debate & Oratory Tournament with delegations of Chile, Colombia, Peru, Ecuador, Spain, USA, Mexico and Argentina. Positioned in Best Speakers & Debaters Top 30."
+  description = "Debating & Oratory Tournament with delegations of Chile, Colombia, Peru, Ecuador, Spain, USA, Mexico and Argentina. Positioned in Top 30 of Best Speakers & Debaters."
 
 +++

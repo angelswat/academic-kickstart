@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://graduation-api.udacity.com/api/certificate/APV9UMC6/download"
   date_start = "2020-05-01"
   date_end = ""
-  description = "Studying cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment, and build projects in PyTorch and NumPy."
+  description = "Studying cutting-edge topics such as Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, and Network Deployment to build projects in PyTorch and NumPy."
 
 [[item]]
   organization = "Faculty of Engineering Earth Sciences, ESPOL"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-10-01"
   date_end = ""
-  description = "Academic course about general structure of research papers and administration and elaboration of different kind of documents on LaTex platform."
+  description = "Academic course about general structure of papers, administration and elaboration of any kind of documents on LaTex platform."
   
   
 [[item]]
@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-12-01"
   date_end = ""
-  description = "Text processing of datasets based on social media, e.g. Twitter. Sentiment analysis applied on social media content."
+  description = "Text processing of datasets based on social media, e.g. Twitter. Sentiment analysis applied on social media data."
 
 +++

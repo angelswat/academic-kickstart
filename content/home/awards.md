@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Yachay Experimental Technology Research University"
+  organization = "Yachay Tech University"
   organization_url = "https://www.yachaytech.edu.ec/en/"
-  title = "Best Oral Presentation Finalist: Ecuadorian Network of Universities for Research and Postgraduate Studies Congress"
+  title = "Best Oral Presentation Finalist at Congress "Red Ecuatoriana de Universidades y Escuelas Politécnicas para Investigación y Posgrados""
   url = ""
   certificate_url = ""
   date_start = "2019-11-01"
@@ -29,14 +29,14 @@ date_format = "Jan 2006"
   description = "Oral Presentation titled: “Pore Network Modelling: Importancia del Modelamiento Computacional para la mejora de las Propiedades Mecánicas en Celdas de Combustible”"
 
 [[item]]
-  organization = "Organization of Ibero-American States for Education, Science and Culture (OEI) & Secretariat for Higher Education, Science, Technology and Innovation (Senescyt)"
+  organization = "Organization of Ibero-American States (OEI) & Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (Senescyt)"
   organization_url = "https://oeiecuador.org/en"
-  title = "1st Place I+D+i Category: Recognition of Science, Technology and Innovation Initiatives and Ancestral Knowledge"
-  url = "https://oeiecuador.org/en/Oei/News/encuentro-nacional-de-redes-y-hub-de-transferencia-de"
+  title = "1st Place I+D+i Category: Reconocimiento de las Iniciativas CTi y SA de Redes de Conocimiento y HUB"
+  url = "https://oei.int/oficinas/ecuador/noticias/encuentro-nacional-de-redes-y-hub-de-transferencia-de-tecnologia"
   certificate_url = ""
   date_start = "2019-12-01"
   date_end = ""
-  description = "Partipation of Transport Phenomena Research Group at the first National Meeting of Networks and HUB of Technology Transfer where results about Fuel Cells research were presented."
+  description = "Partipation of Transport Phenomena Research Group at "Primer Encuentro Nacional de Redes y HUB de Transferencia de Tecnología" where results about Fuel Cells research were presented."
   
   
 [[item]]
@@ -47,6 +47,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-01-01"
   date_end = ""
-  description = "Massive data analysis and interactive visualizations design for data interpretation."
+  description = "Big data analysis and interactive visualizations design for data interpretation."
 
 +++
